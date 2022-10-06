@@ -1,0 +1,5 @@
+*.pub
+*.tfstate.*
+cred.json
+.terraform/
+*.tfstate
