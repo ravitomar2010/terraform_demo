@@ -3,3 +3,4 @@
 cred.json
 .terraform/
 *.tfstate
+.terraform.lock.hcl
